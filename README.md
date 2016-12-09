@@ -8,7 +8,9 @@ python -m http.server 8099
 
 This short notebook was a learning exercise, and early, small and not entirely elegant python DOMWidget and javascript DOMWidgetView.
 
-The problem reproduced first appeared in a refactored and larger self-contained notebook derived from this one. I know this often turns out to not be the case, to the embarrassment of the bug filer, but as best I can tell I had made no code changes or intentional infrastructre updates prior to the failure shown here (8 dec 2016).  I have been working on the longer version for many days and had just begun to convert the single-page ipynb into a proper cookiecutter nbexteansion.  The smaller notebook included here <b>errorStackBug.ipynb</b> shows the same error that the larger notebook does:  
+The problem reproduced first appeared in a refactored and larger self-contained notebook derived from this one. I know this often turns out to not be the case, to the embarrassment of the bug filer, but as best I can tell I had made no code changes or intentional infrastructre updates prior to the failure shown here (8 dec 2016).  I have been working on the longer version for many days and had just begun to convert the single-page ipynb into a proper cookiecutter nbexteansion.  I am holding off on the extension until I can get this all-in-one notebook working again.
+
+The smaller notebook included here <b>errorStackBug.ipynb</b> shows the same error that the larger notebook does:  
 
 
 <pre>
